@@ -1,0 +1,14 @@
+h1{
+	text-transform: uppercase; /*todo lo que tenga h1 estara en mayuscula*/
+}
+
+p{ 
+  font-size: 1.5em;
+  color:#888888;    /*todo lo que este en p tendra esos cambios*/
+}
+
+.ciudad{ 
+     font-style: italic;
+     font-weight: bolder;  /* todo lo que este en o sea parte de ciudad tendra esos cambios*/
+}
+	 
